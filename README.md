@@ -4,4 +4,4 @@ name:samitha
 project:version control test
 college:anmk
 course:mca
-affiliate:anmk
+affiliate:jntua
